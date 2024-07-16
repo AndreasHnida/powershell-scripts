@@ -1,1 +1,4 @@
 # powershell-scripts
+
+## GoMD
+Create a directory and change into it. Set the "-f" flag to create a ".go"-File named after the directory.
